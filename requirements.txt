@@ -1,0 +1,8 @@
+opencv_python==4.9.0.80
+PyQt6_Fluent_Widgets==1.5.5
+PySide6==6.6.3.1
+PySide6_Addons==6.6.3.1
+PySide6_Essentials==6.6.3.1
+PySide6_Fluent_Widgets==1.5.5
+torch==2.2.2
+ultralytics==8.1.0
